@@ -1,0 +1,31 @@
+_repo: Myths-of-the-Iroquois.--1883-N-02---1880-1881--pages-47-116--_46140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46140-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Erminnie A. (Erminnie Adele)
+    aliases:
+    - Smith, E. A. (Erminnie Adele)
+    - Smith, Erminnie Adele Platt
+    birthdate: 1836
+    deathdate: 1886
+    gutenberg_agent_id: '43626'
+    url: http://www.gutenberg.org/2009/agents/43626
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Legends -- New York (State)'
+- !lcsh 'Iroquois mythology'
+- !lcsh 'Iroquois Indians -- Folklore'
+title: Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))
+url: http://www.gutenberg.org/ebooks/46140
